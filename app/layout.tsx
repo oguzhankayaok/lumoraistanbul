@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Senkron Gayrimenkul | Lüks Konut Danışmanlığı',
-  description: "İstanbul'un en seçkin lüks gayrimenkul ve yatırım danışmanlık firması.",
+  title: 'Lumora Istanbul | Lüks Gayrimenkul',
+  description: "İstanbul'un en seçkin lüks gayrimenkul danışmanlık firması.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
